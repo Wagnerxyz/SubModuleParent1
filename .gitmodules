@@ -1,0 +1,3 @@
+[submodule "SubModuleChildTest"]
+	path = SubModuleChildTest
+	url = https://github.com/Wagnerxyz/SubModuleChildTest
